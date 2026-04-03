@@ -36,6 +36,6 @@
 
 You can view the UI design from the following link:
 
-🔗 https://www.figma.com/board/G4NW8sZXfuka8U2wnknB9R/Fasela?node-id=0-1&t=IriZ1Br439wWNnL7-1
+🔗 https://www.figma.com/board/dVbnmS9ecsgqhCMgtqaSRp/%D9%81%D8%B5%D9%8A%D9%84%D8%A9?node-id=0-1&t=rMB6lN2raEKN6nPL-0
 
 

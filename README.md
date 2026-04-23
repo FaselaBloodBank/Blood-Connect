@@ -42,7 +42,9 @@ After selecting a suitable blood bank, the patient can temporarily reserve a blo
 The platform supports three types of users:
 
 Patients
+
 Donors
+
 Blood Banks
 
 Each user provides basic information upon registration, including blood type, geographic location, contact details, and a history of previous donations or requests.

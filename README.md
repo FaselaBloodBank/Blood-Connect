@@ -31,6 +31,23 @@
 تهدف المنصة إلى تسريع وصول المرضى إلى الدم، وتنظيم عملية الحجز والتبرع، وضمان أن تتم العملية بشكل آمن ومنظم من خلال الجهات الطبية المعتمدة.
 
 ---
+Project Idea
+
+Fasela is a web platform designed to make accessing blood bags from accredited blood banks easier in a safe and organized way.
+
+The platform allows patients or their families to search for the required blood type, then displays a list of blood banks where this type is available. Results can be sorted based on several factors such as proximity to the hospital or user location, number of available blood bags, response speed, or prioritization of emergency cases.
+
+After selecting a suitable blood bank, the patient can temporarily reserve a blood bag by uploading a prescription or medical report that confirms the need for blood. Users can also indicate whether a donor is available. If no donor is provided, the blood bank can request suitable donors through the platform and send notifications to nearby registered donors with the same blood type.
+
+The platform supports three types of users:
+
+Patients
+Donors
+Blood Banks
+
+Each user provides basic information upon registration, including blood type, geographic location, contact details, and a history of previous donations or requests.
+
+The goal of the platform is to speed up patient access to blood, organize the reservation and donation process, and ensure that everything is carried out safely and efficiently through accredited medical entities.
 
 ## Figma Design
 

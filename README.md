@@ -36,6 +36,6 @@
 
 You can view the UI design from the following link:
 
-🔗 https://www.figma.com/board/dVbnmS9ecsgqhCMgtqaSRp/%D9%81%D8%B5%D9%8A%D9%84%D8%A9?node-id=0-1&t=rMB6lN2raEKN6nPL-0
+🔗 https://www.figma.com/board/dVbnmS9ecsgqhCMgtqaSRp/%D9%81%D8%B5%D9%8A%D9%84%D8%A9?node-id=0-1&p=f&t=1EVTQqtZ9GbG04Vw-0
 
 
